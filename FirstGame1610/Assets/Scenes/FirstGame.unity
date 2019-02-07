@@ -5111,7 +5111,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Teddy
-  SkinColor: {r: 0, g: 0, b: 0, a: 0}
+  SkinColor: {r: 0.9528302, g: 0.66967785, b: 0.75080884, a: 1}
 --- !u!212 &756698166
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5744,8 +5744,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  SkinColor: {r: 0.9339623, g: 0.19824673, b: 0.19824673, a: 0}
-  WingColor: {r: 0.6415094, g: 0, b: 0, a: 0}
+  SkinColor: {r: 0.9339623, g: 0.19824673, b: 0.19824673, a: 1}
+  WingColor: {r: 0.6415094, g: 0, b: 0, a: 1}
 --- !u!212 &1684455375
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6080,8 +6080,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Cheese
-  SkinColor: {r: 1, g: 0.7483457, b: 0.0990566, a: 0}
-  FinColor: {r: 0.9150943, g: 0.8053074, b: 0.15107687, a: 0}
+  SkinColor: {r: 1, g: 0.78771853, b: 0.2028302, a: 1}
+  FinColor: {r: 0.9150943, g: 0.8053074, b: 0.15107687, a: 1}
 --- !u!212 &1955825858
 SpriteRenderer:
   m_ObjectHideFlags: 0
