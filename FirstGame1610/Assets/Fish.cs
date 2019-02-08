@@ -8,6 +8,7 @@ public Color FinColor;
 	// Use this for initialization
 	void Start () {
 	print("Hello, World!");
+	GetComponent<SpriteRenderer>().color = SkinColor;
 		
 	}
 	

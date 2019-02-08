@@ -8,6 +8,7 @@ public Color WingColor;
 
 	// Use this for initialization
 	void Start () {
+	GetComponent<SpriteRenderer>().color = WingColor;
 		
 	}
 	
