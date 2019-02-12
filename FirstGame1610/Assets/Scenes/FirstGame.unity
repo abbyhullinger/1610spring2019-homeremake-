@@ -5269,11 +5269,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 756698164}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c1f3906e500c3e543baafb1184c9700d, type: 3}
+  m_Script: {fileID: 11500000, guid: 318380cd88a3a5345ab2f8569dfc62cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Name: Teddy
-  SkinColor: {r: 0.9528302, g: 0.66967785, b: 0.75080884, a: 1}
+  Name: 
+  Health: 0
+  Speed: 0
+  CanMove: 0
+  SkinColor: {r: 1, g: 0.7122642, b: 0.77933234, a: 1}
+  FurCount: 10000
+  EatingSpeed: 0.4
+  CanEat: 1
 --- !u!212 &756698166
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5906,6 +5912,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
+  Health: 100
+  Speed: 24.9
+  CanMove: 1
   SkinColor: {r: 0.9339623, g: 0.19824673, b: 0.19824673, a: 1}
   WingColor: {r: 0.6415094, g: 0, b: 0, a: 1}
 --- !u!212 &1684455375
@@ -6242,6 +6251,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Cheese
+  Health: 0
+  Speed: 0
+  CanMove: 0
   SkinColor: {r: 1, g: 0.78771853, b: 0.2028302, a: 1}
   FinColor: {r: 0.9150943, g: 0.8053074, b: 0.15107687, a: 1}
 --- !u!212 &1955825858
