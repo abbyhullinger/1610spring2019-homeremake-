@@ -5348,8 +5348,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: 0
-  Speed: 0
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
   CanMove: 0
   SkinColor: {r: 1, g: 0.7122642, b: 0.77933234, a: 1}
   FurCount: 10000
@@ -6078,8 +6078,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  Health: 100
-  Speed: 24.9
+  Health: {fileID: 0}
+  Speed: {fileID: 0}
   CanMove: 1
   SkinColor: {r: 0.9339623, g: 0.19824673, b: 0.19824673, a: 1}
   WingColor: {r: 0.6415094, g: 0, b: 0, a: 1}
@@ -6417,8 +6417,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: Cheese
-  Health: 0
-  Speed: 0
+  Health: {fileID: 11400000, guid: 3cdfc4f3dc83f4e459f373566a35f3f5, type: 2}
+  Speed: {fileID: 11400000, guid: 0c216a0e31e28e14e9a28780f8fac95a, type: 2}
   CanMove: 0
   SkinColor: {r: 1, g: 0.78771853, b: 0.2028302, a: 1}
   FinColor: {r: 0.9150943, g: 0.8053074, b: 0.15107687, a: 1}
