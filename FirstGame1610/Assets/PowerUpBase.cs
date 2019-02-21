@@ -8,5 +8,7 @@ public float Value = 10;
 	void OnEnable () {
 	
 	}
-	
+	public void OnPowerUp (float addValue) {
+		Value += addValue;
+	}
 }
