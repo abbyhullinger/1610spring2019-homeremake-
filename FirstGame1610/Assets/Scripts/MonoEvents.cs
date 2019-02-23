@@ -16,6 +16,7 @@ public class MonoEvents : MonoBehaviour {
 	private void OnMouseUp() {
 		print("MouseUp");
 		MouseUpEvent.Invoke();
+		gameObject.active = false; 
 	}
 	
 	// Update is called once per frame
