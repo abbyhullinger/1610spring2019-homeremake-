@@ -520,7 +520,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a635b2b4b4f5c24882be7050d31a6c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CanWalk: 1
+  CanWalk: 0
+  Number: 0
+  Password: 
 --- !u!1 &354879745
 GameObject:
   m_ObjectHideFlags: 0
@@ -5431,6 +5433,7 @@ GameObject:
   - component: {fileID: 756698167}
   - component: {fileID: 756698166}
   - component: {fileID: 756698165}
+  - component: {fileID: 756698168}
   m_Layer: 0
   m_Name: realteddybear_0
   m_TagString: Untagged
@@ -5532,6 +5535,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &756698168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 756698164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a635b2b4b4f5c24882be7050d31a6c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CanWalk: 1
+  Number: 9
+  Password: OU812
 --- !u!1 &904795996
 GameObject:
   m_ObjectHideFlags: 0
