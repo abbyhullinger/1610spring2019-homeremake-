@@ -13,14 +13,30 @@ public string Password;
 	
 	// Update is called once per frame
 	void Update () {
-		if (!CanWalk) {
+		if (CanWalk)
+	{
 			print("True");
+		} 
+		else 
+		{
+			print(false);
 		}
+		
 		if (Number >= 10) 
-		{print("Greater");
+		{
+		print("Greater");
 		}
-		if (Passwrod =="OU812") {
-			print("The password is correct")
+		else
+		{
+			print("Lesser");
 		}
-	}
-}
+		if (Passwrod == "OU812") {
+			print("The password is correct");
+		}
+		else 
+		{
+			print("The Password is incorrect");
+		}
+		}
+		}
+		
