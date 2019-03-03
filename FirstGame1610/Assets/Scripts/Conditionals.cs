@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Globalization;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Conditionals : MonoBehaviour
 {
-
-	public bool CanWalk;
+	public UnityEvent OnEvent, OffEvent;
+	public bool OnBool;
 	public int Number;
 	public string Password;
 
@@ -17,14 +18,16 @@ public class Conditionals : MonoBehaviour
 	
 	// Update is called once per frame
 	private void Update () {
-		if (CanWalk)
+		if (OnBool)
 		{
-			print("True");
+			OnEvent.Invoke();
 		}
 		else
 		{
-			print(false);
+			OffEvent.Invoke();
 		}
+		
+		
 
 		print(Number >= 10 ? "Greater" : "Lesser");
 

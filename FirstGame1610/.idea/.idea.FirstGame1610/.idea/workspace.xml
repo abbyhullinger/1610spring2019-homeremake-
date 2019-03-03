@@ -9,19 +9,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="392">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
-                <marker date="1551476643712" expanded="false" signature="6:106" ph="..." />
-                <marker date="1551476643712" expanded="true" signature="149:553" ph="{...}" />
-                <marker date="1551476643712" expanded="true" signature="268:275" ph="{...}" />
-                <marker date="1551476643712" expanded="true" signature="338:551" ph="{...}" />
-                <marker date="1551476643712" expanded="true" signature="354:380" ph="{...}" />
-                <marker date="1551476643712" expanded="true" signature="387:412" ph="{...}" />
+                <marker date="1551593910842" expanded="false" signature="6:106" ph="..." />
+                <marker date="1551593910842" expanded="true" signature="175:628" ph="{...}" />
+                <marker date="1551593910842" expanded="true" signature="330:337" ph="{...}" />
+                <marker date="1551593910842" expanded="true" signature="400:626" ph="{...}" />
+                <marker date="1551593910842" expanded="true" signature="415:444" ph="{...}" />
+                <marker date="1551593910842" expanded="true" signature="451:481" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -43,26 +43,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="786" />
+    <option name="y" value="75" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -108,11 +99,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551474237829</updated>
       <workItem from="1551474242628" duration="2896000" />
+      <workItem from="1551593644291" duration="543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2896000" />
+    <option name="totallyTimeSpent" value="3439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -124,22 +116,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="629" y="60" width="782" height="831" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.46463245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -147,13 +130,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,15 +166,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="392">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
-            <marker date="1551476643712" expanded="false" signature="6:106" ph="..." />
-            <marker date="1551476643712" expanded="true" signature="149:553" ph="{...}" />
-            <marker date="1551476643712" expanded="true" signature="268:275" ph="{...}" />
-            <marker date="1551476643712" expanded="true" signature="338:551" ph="{...}" />
-            <marker date="1551476643712" expanded="true" signature="354:380" ph="{...}" />
-            <marker date="1551476643712" expanded="true" signature="387:412" ph="{...}" />
+            <marker date="1551593910842" expanded="false" signature="6:106" ph="..." />
+            <marker date="1551593910842" expanded="true" signature="175:628" ph="{...}" />
+            <marker date="1551593910842" expanded="true" signature="330:337" ph="{...}" />
+            <marker date="1551593910842" expanded="true" signature="400:626" ph="{...}" />
+            <marker date="1551593910842" expanded="true" signature="415:444" ph="{...}" />
+            <marker date="1551593910842" expanded="true" signature="451:481" ph="{...}" />
           </folding>
         </state>
       </provider>
