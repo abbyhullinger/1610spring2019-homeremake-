@@ -8,6 +8,7 @@ public class Conditionals : MonoBehaviour
 {
 	public UnityEvent OnEvent, OffEvent;
 	public bool OnBool;
+	
 	public int Number;
 	public string Password;
 
