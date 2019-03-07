@@ -1,10 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class MoveCharacter : MonoBehaviour
 {
-	public float Speed = 100;
+	public UnityEvent OnGrounded, OffGrounded;
+	public float Speed = 3;
 	
 	private CharacterController _controller;
 	private Vector3 position; 
@@ -19,7 +21,15 @@ public class MoveCharacter : MonoBehaviour
 
 	void Update ()
 	{
-		position.y = Input.GetAxis("Vertical")*Speed*Time.deltaTime;
+		if (_controller.isGrounded)
+		{
+			OnGrounded.Invoke();
+		}
+		else
+		{
+			OffGrounded.Invoke();
+		}
+		position.y = Input.GetAxis("Vertical") * Speed * Time.deltaTime;
 		position.x = Input.GetAxis("Horizontal") * Speed * Time.deltaTime;
 		_controller.Move(position);
 	}

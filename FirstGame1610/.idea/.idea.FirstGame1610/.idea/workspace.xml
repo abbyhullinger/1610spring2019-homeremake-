@@ -30,13 +30,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="458">
+              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
               <folding>
-                <marker date="1551939679095" expanded="false" signature="6:78" ph="..." />
-                <marker date="1551939679095" expanded="true" signature="122:489" ph="{...}" />
-                <marker date="1551939679095" expanded="true" signature="241:300" ph="{...}" />
-                <marker date="1551939679095" expanded="true" signature="319:487" ph="{...}" />
+                <marker date="1551941124487" expanded="false" signature="6:78" ph="..." />
+                <marker date="1551941124487" expanded="true" signature="148:663" ph="{...}" />
+                <marker date="1551941124487" expanded="true" signature="309:368" ph="{...}" />
+                <marker date="1551941124487" expanded="true" signature="387:661" ph="{...}" />
+                <marker date="1551941124487" expanded="true" signature="420:452" ph="{...}" />
+                <marker date="1551941124487" expanded="true" signature="459:492" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="851" />
     <option name="y" value="110" />
     <option name="width" value="980" />
@@ -138,12 +140,12 @@
       <workItem from="1551845318671" duration="14000" />
       <workItem from="1551845358008" duration="400000" />
       <workItem from="1551845833191" duration="2046000" />
-      <workItem from="1551939595388" duration="84000" />
+      <workItem from="1551939595388" duration="1967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6002000" />
+    <option name="totallyTimeSpent" value="7885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,13 +237,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="458">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
           <folding>
-            <marker date="1551939679095" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551939679095" expanded="true" signature="122:489" ph="{...}" />
-            <marker date="1551939679095" expanded="true" signature="241:300" ph="{...}" />
-            <marker date="1551939679095" expanded="true" signature="319:487" ph="{...}" />
+            <marker date="1551941124487" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551941124487" expanded="true" signature="148:663" ph="{...}" />
+            <marker date="1551941124487" expanded="true" signature="309:368" ph="{...}" />
+            <marker date="1551941124487" expanded="true" signature="387:661" ph="{...}" />
+            <marker date="1551941124487" expanded="true" signature="420:452" ph="{...}" />
+            <marker date="1551941124487" expanded="true" signature="459:492" ph="{...}" />
           </folding>
         </state>
       </provider>
