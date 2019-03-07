@@ -30,13 +30,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="357">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding>
-                <marker date="1551847857874" expanded="false" signature="6:78" ph="..." />
-                <marker date="1551847857874" expanded="true" signature="122:420" ph="{...}" />
-                <marker date="1551847857874" expanded="true" signature="241:300" ph="{...}" />
-                <marker date="1551847857874" expanded="true" signature="319:418" ph="{...}" />
+                <marker date="1551939679095" expanded="false" signature="6:78" ph="..." />
+                <marker date="1551939679095" expanded="true" signature="122:489" ph="{...}" />
+                <marker date="1551939679095" expanded="true" signature="241:300" ph="{...}" />
+                <marker date="1551939679095" expanded="true" signature="319:487" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -76,8 +76,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="852" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="851" />
     <option name="y" value="110" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -138,11 +138,12 @@
       <workItem from="1551845318671" duration="14000" />
       <workItem from="1551845358008" duration="400000" />
       <workItem from="1551845833191" duration="2046000" />
+      <workItem from="1551939595388" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5918000" />
+    <option name="totallyTimeSpent" value="6002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -154,7 +155,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="682" y="88" width="784" height="832" extended-state="0" />
+    <frame x="681" y="88" width="784" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46463245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -233,13 +235,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="357">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
-            <marker date="1551847857874" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551847857874" expanded="true" signature="122:420" ph="{...}" />
-            <marker date="1551847857874" expanded="true" signature="241:300" ph="{...}" />
-            <marker date="1551847857874" expanded="true" signature="319:418" ph="{...}" />
+            <marker date="1551939679095" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551939679095" expanded="true" signature="122:489" ph="{...}" />
+            <marker date="1551939679095" expanded="true" signature="241:300" ph="{...}" />
+            <marker date="1551939679095" expanded="true" signature="319:487" ph="{...}" />
           </folding>
         </state>
       </provider>

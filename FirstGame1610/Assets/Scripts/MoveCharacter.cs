@@ -20,6 +20,7 @@ public class MoveCharacter : MonoBehaviour
 	void Update ()
 	{
 		position.y = Input.GetAxis("Vertical")*Speed*Time.deltaTime;
+		position.x = Input.GetAxis("Horizontal") * Speed * Time.deltaTime;
 		_controller.Move(position);
 	}
 }
