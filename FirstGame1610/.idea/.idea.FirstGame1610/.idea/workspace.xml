@@ -13,15 +13,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="221">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
-                <marker date="1552111381594" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552111381594" expanded="true" signature="148:659" ph="{...}" />
-                <marker date="1552111381594" expanded="true" signature="305:363" ph="{...}" />
-                <marker date="1552111381594" expanded="true" signature="383:657" ph="{...}" />
-                <marker date="1552111381594" expanded="true" signature="415:447" ph="{...}" />
-                <marker date="1552111381594" expanded="true" signature="454:487" ph="{...}" />
+                <marker date="1552113879533" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552113879533" expanded="true" signature="148:1023" ph="{...}" />
+                <marker date="1552113879533" expanded="true" signature="364:422" ph="{...}" />
+                <marker date="1552113879533" expanded="true" signature="442:1021" ph="{...}" />
+                <marker date="1552113879533" expanded="true" signature="474:506" ph="{...}" />
+                <marker date="1552113879533" expanded="true" signature="513:546" ph="{...}" />
+                <marker date="1552113879533" expanded="true" signature="603:639" ph="{...}" />
+                <marker date="1552113879533" expanded="true" signature="687:905" ph="/* if (Input.GetAxis(&quot;Vertical&quot;) &gt; 0 || Input.GetAxis(&quot;Vertical&quot;) &lt; 0) ... */" />
               </folding>
             </state>
           </provider>
@@ -46,8 +48,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="823" />
-    <option name="y" value="46" />
+    <option name="x" value="895" />
+    <option name="y" value="42" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -109,12 +111,12 @@
       <workItem from="1551845833191" duration="2046000" />
       <workItem from="1551939595388" duration="2032000" />
       <workItem from="1552026280509" duration="650000" />
-      <workItem from="1552107175957" duration="2527000" />
+      <workItem from="1552107175957" duration="4980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11127000" />
+    <option name="totallyTimeSpent" value="13580000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -126,7 +128,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="659" y="37" width="784" height="832" extended-state="0" />
+    <frame x="716" y="34" width="784" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46463245" />
@@ -206,15 +208,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="221">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           <folding>
-            <marker date="1552111381594" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552111381594" expanded="true" signature="148:659" ph="{...}" />
-            <marker date="1552111381594" expanded="true" signature="305:363" ph="{...}" />
-            <marker date="1552111381594" expanded="true" signature="383:657" ph="{...}" />
-            <marker date="1552111381594" expanded="true" signature="415:447" ph="{...}" />
-            <marker date="1552111381594" expanded="true" signature="454:487" ph="{...}" />
+            <marker date="1552113879533" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552113879533" expanded="true" signature="148:1023" ph="{...}" />
+            <marker date="1552113879533" expanded="true" signature="364:422" ph="{...}" />
+            <marker date="1552113879533" expanded="true" signature="442:1021" ph="{...}" />
+            <marker date="1552113879533" expanded="true" signature="474:506" ph="{...}" />
+            <marker date="1552113879533" expanded="true" signature="513:546" ph="{...}" />
+            <marker date="1552113879533" expanded="true" signature="603:639" ph="{...}" />
+            <marker date="1552113879533" expanded="true" signature="687:905" ph="/* if (Input.GetAxis(&quot;Vertical&quot;) &gt; 0 || Input.GetAxis(&quot;Vertical&quot;) &lt; 0) ... */" />
           </folding>
         </state>
       </provider>
