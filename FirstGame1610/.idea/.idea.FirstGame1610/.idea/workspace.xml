@@ -10,51 +10,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding>
-                <marker date="1551845527154" expanded="false" signature="6:132" ph="..." />
-                <marker date="1551845527154" expanded="true" signature="175:630" ph="{...}" />
-                <marker date="1551845527154" expanded="true" signature="332:339" ph="{...}" />
-                <marker date="1551845527154" expanded="true" signature="402:628" ph="{...}" />
-                <marker date="1551845527154" expanded="true" signature="417:446" ph="{...}" />
-                <marker date="1551845527154" expanded="true" signature="453:483" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+            <state relative-caret-position="170">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding>
-                <marker date="1552026921282" expanded="false" signature="6:104" ph="..." />
-                <marker date="1552026921282" expanded="true" signature="148:817" ph="{...}" />
-                <marker date="1552026921282" expanded="true" signature="337:396" ph="{...}" />
-                <marker date="1552026921282" expanded="true" signature="415:815" ph="{...}" />
-                <marker date="1552026921282" expanded="true" signature="448:480" ph="{...}" />
-                <marker date="1552026921282" expanded="true" signature="487:520" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1550889832302" expanded="false" signature="6:104" ph="..." />
-                <marker date="1550889832302" expanded="true" signature="145:527" ph="{...}" />
-                <marker date="1550889832302" expanded="true" signature="234:260" ph="{...}" />
-                <marker date="1550889832302" expanded="true" signature="286:333" ph="{...}" />
-                <marker date="1550889832302" expanded="true" signature="361:440" ph="{...}" />
-                <marker date="1550889832302" expanded="true" signature="495:525" ph="{...}" />
+                <marker date="1552111381594" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552111381594" expanded="true" signature="148:659" ph="{...}" />
+                <marker date="1552111381594" expanded="true" signature="305:363" ph="{...}" />
+                <marker date="1552111381594" expanded="true" signature="383:657" ph="{...}" />
+                <marker date="1552111381594" expanded="true" signature="415:447" ph="{...}" />
+                <marker date="1552111381594" expanded="true" signature="454:487" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,9 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,8 +46,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="937" />
-    <option name="y" value="106" />
+    <option name="x" value="823" />
+    <option name="y" value="46" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -142,11 +109,12 @@
       <workItem from="1551845833191" duration="2046000" />
       <workItem from="1551939595388" duration="2032000" />
       <workItem from="1552026280509" duration="650000" />
+      <workItem from="1552107175957" duration="2527000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8600000" />
+    <option name="totallyTimeSpent" value="11127000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,7 +126,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="750" y="85" width="784" height="832" extended-state="0" />
+    <frame x="659" y="37" width="784" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46463245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -237,15 +206,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+        <state relative-caret-position="170">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
-            <marker date="1552026921282" expanded="false" signature="6:104" ph="..." />
-            <marker date="1552026921282" expanded="true" signature="148:817" ph="{...}" />
-            <marker date="1552026921282" expanded="true" signature="337:396" ph="{...}" />
-            <marker date="1552026921282" expanded="true" signature="415:815" ph="{...}" />
-            <marker date="1552026921282" expanded="true" signature="448:480" ph="{...}" />
-            <marker date="1552026921282" expanded="true" signature="487:520" ph="{...}" />
+            <marker date="1552111381594" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552111381594" expanded="true" signature="148:659" ph="{...}" />
+            <marker date="1552111381594" expanded="true" signature="305:363" ph="{...}" />
+            <marker date="1552111381594" expanded="true" signature="383:657" ph="{...}" />
+            <marker date="1552111381594" expanded="true" signature="415:447" ph="{...}" />
+            <marker date="1552111381594" expanded="true" signature="454:487" ph="{...}" />
           </folding>
         </state>
       </provider>
