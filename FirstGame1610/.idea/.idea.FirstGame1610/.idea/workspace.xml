@@ -9,13 +9,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <marker date="1552195000758" expanded="false" signature="6:104" ph="..." />
+                <marker date="1552195000758" expanded="true" signature="145:407" ph="{...}" />
+                <marker date="1552195000758" expanded="true" signature="247:275" ph="{...}" />
+                <marker date="1552195000758" expanded="true" signature="321:357" ph="{...}" />
+                <marker date="1552195000758" expanded="true" signature="375:405" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1550206188821" expanded="false" signature="6:78" ph="..." />
+                <marker date="1550206188821" expanded="true" signature="140:165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveSingleJump.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,12 +60,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveSingleJump.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="923" />
-    <option name="y" value="62" />
+    <option name="x" value="922" />
+    <option name="y" value="61" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -98,11 +129,12 @@
       <workItem from="1551939595388" duration="2032000" />
       <workItem from="1552026280509" duration="650000" />
       <workItem from="1552107175957" duration="6880000" />
+      <workItem from="1552194558139" duration="848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15480000" />
+    <option name="totallyTimeSpent" value="16328000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -114,7 +146,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="739" y="50" width="784" height="832" extended-state="0" />
+    <frame x="738" y="49" width="784" height="832" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46463245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -177,20 +209,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1550889832302" expanded="false" signature="6:104" ph="..." />
-            <marker date="1550889832302" expanded="true" signature="145:527" ph="{...}" />
-            <marker date="1550889832302" expanded="true" signature="234:260" ph="{...}" />
-            <marker date="1550889832302" expanded="true" signature="286:333" ph="{...}" />
-            <marker date="1550889832302" expanded="true" signature="361:440" ph="{...}" />
-            <marker date="1550889832302" expanded="true" signature="495:525" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveCharacter.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="424">
@@ -240,6 +258,30 @@
             <marker date="1552115605493" expanded="true" signature="196:515" ph="{...}" />
             <marker date="1552115605493" expanded="true" signature="271:347" ph="{...}" />
             <marker date="1552115605493" expanded="true" signature="354:404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1550206188821" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550206188821" expanded="true" signature="140:165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MonoEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="44" lean-forward="true" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <marker date="1552195000758" expanded="false" signature="6:104" ph="..." />
+            <marker date="1552195000758" expanded="true" signature="145:407" ph="{...}" />
+            <marker date="1552195000758" expanded="true" signature="247:275" ph="{...}" />
+            <marker date="1552195000758" expanded="true" signature="321:357" ph="{...}" />
+            <marker date="1552195000758" expanded="true" signature="375:405" ph="{...}" />
           </folding>
         </state>
       </provider>
