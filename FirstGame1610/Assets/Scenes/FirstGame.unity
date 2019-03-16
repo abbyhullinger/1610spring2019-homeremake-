@@ -6155,6 +6155,8 @@ GameObject:
   - component: {fileID: 1347510431}
   - component: {fileID: 1347510430}
   - component: {fileID: 1347510429}
+  - component: {fileID: 1347510434}
+  - component: {fileID: 1347510433}
   m_Layer: 0
   m_Name: dogCharacter
   m_TagString: Untagged
@@ -6288,6 +6290,63 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1347510433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347510428}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd740c474d3b86a4f8063f0788bf7053, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  StartEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  EnableEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  TriggerEnterEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 11400000, guid: 3cdfc4f3dc83f4e459f373566a35f3f5, type: 2}
+        m_MethodName: UpdateValue
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: f14e2a3410030cb468d6769cdb35566a,
+            type: 2}
+          m_ObjectArgumentAssemblyTypeName: FloatData, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: -10
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  UpdateEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!65 &1347510434
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1347510428}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 8.46, y: 6.62, z: 0.2}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &1379027358
 GameObject:
   m_ObjectHideFlags: 0
@@ -12345,7 +12404,7 @@ PrefabInstance:
     - target: {fileID: 7588541350300634038, guid: eba12d9440a0a934797ae30cd72e57da,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 14.8
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 7588541350300634038, guid: eba12d9440a0a934797ae30cd72e57da,
         type: 3}

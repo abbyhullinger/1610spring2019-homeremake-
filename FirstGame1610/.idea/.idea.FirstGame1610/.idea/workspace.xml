@@ -43,12 +43,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="374">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
-                <marker date="1552699591031" expanded="false" signature="6:78" ph="..." />
-                <marker date="1552699591031" expanded="true" signature="139:288" ph="{...}" />
-                <marker date="1552699591031" expanded="true" signature="207:286" ph="{...}" />
+                <marker date="1552701373752" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552701373752" expanded="true" signature="139:468" ph="{...}" />
+                <marker date="1552701373752" expanded="true" signature="207:286" ph="{...}" />
+                <marker date="1552701373752" expanded="true" signature="333:374" ph="{...}" />
+                <marker date="1552701373752" expanded="true" signature="422:466" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -67,6 +69,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Conditionals.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveWithAxis.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animal.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -83,9 +86,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="757" />
-    <option name="y" value="81" />
+    <option name="y" value="82" />
     <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -149,12 +152,12 @@
       <workItem from="1552194558139" duration="848000" />
       <workItem from="1552449208204" duration="1212000" />
       <workItem from="1552509365203" duration="2600000" />
-      <workItem from="1552699199725" duration="391000" />
+      <workItem from="1552699199725" duration="1951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20531000" />
+    <option name="totallyTimeSpent" value="22091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -166,7 +169,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="606" y="65" width="784" height="832" extended-state="0" />
+    <frame x="606" y="66" width="784" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46463245" />
@@ -297,14 +300,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1550359351865" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550359351865" expanded="true" signature="116:356" ph="{...}" />
+            <marker date="1550359351865" expanded="true" signature="285:292" ph="{...}" />
+            <marker date="1550359351865" expanded="true" signature="347:354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="374">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <marker date="1552699591031" expanded="false" signature="6:78" ph="..." />
-            <marker date="1552699591031" expanded="true" signature="139:288" ph="{...}" />
-            <marker date="1552699591031" expanded="true" signature="207:286" ph="{...}" />
+            <marker date="1552701373752" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552701373752" expanded="true" signature="139:468" ph="{...}" />
+            <marker date="1552701373752" expanded="true" signature="207:286" ph="{...}" />
+            <marker date="1552701373752" expanded="true" signature="333:374" ph="{...}" />
+            <marker date="1552701373752" expanded="true" signature="422:466" ph="{...}" />
           </folding>
         </state>
       </provider>
