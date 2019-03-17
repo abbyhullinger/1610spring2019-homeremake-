@@ -6,8 +6,9 @@ public class Fish : Animal {
 public Color FinColor;
 
 	// Use this for initialization
-	void Start () {
-	print("Hello, World!");
+	void Start ()
+	{
+		newColor = Color.blue;
 	GetComponent<SpriteRenderer>().color = SkinColor;
 		
 	}

@@ -25,6 +25,7 @@
           <e p="MoveWithAxis.cs" t="Include" />
           <e p="PickUpHealth.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
+          <e p="ReturnFunctions.cs" t="Include" />
           <e p="SpeedBoost.cs" t="Include" />
         </e>
       </e>
