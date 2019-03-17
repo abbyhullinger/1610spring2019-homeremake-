@@ -5,8 +5,7 @@ using UnityEngine.Events;
 
 public class Animal : MonoBehaviour
 {
-
-	public UnityEvent Event;
+public UnityEvent Event;
 public string Name;
 public FloatData Health; 
 public FloatData Speed; 
