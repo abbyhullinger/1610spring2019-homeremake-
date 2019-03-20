@@ -27,6 +27,7 @@
           <e p="PowerUpBase.cs" t="Include" />
           <e p="ReturnFunctions.cs" t="Include" />
           <e p="SpeedBoost.cs" t="Include" />
+          <e p="UpdateBar.cs" t="Include" />
         </e>
       </e>
       <e p="FirstGame1610.sln" t="IncludeFlat" />
