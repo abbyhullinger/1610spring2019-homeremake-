@@ -16,6 +16,7 @@
           <e p="DoorScript.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="FunctionsWithParams.cs" t="Include" />
           <e p="LadyBug.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="Mechanical.cs" t="Include" />
