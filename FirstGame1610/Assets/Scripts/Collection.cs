@@ -4,12 +4,20 @@ using UnityEngine;
 [CreateAssetMenu]
 public class Collection : ScriptableObject
 {
-    public List<Object> CollectionList;
+    public List<FloatData> CollectionList;
     
     
-    public void Collect(Object obj)
+    public void Collect(FloatData obj)
     {
         CollectionList.Add(obj);
+    }
+
+    public void CollectionInfo()
+    {
+        foreach (var obj in CollectionList)
+        {
+           Debug.Log(obj); 
+        }
     }
 
 }
