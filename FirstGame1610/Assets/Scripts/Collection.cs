@@ -20,4 +20,16 @@ public class Collection : ScriptableObject
         }
     }
 
+    public void AmmoInfo()
+    {
+        foreach (var obj in CollectionList)
+        {
+            if (obj.name == "Ammo")
+            {
+                Debug.Log("We have " + obj.Value + " ammo.");
+            }
+        }
+    }
+
+    
 }
