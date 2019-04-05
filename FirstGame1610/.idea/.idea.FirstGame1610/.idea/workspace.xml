@@ -91,15 +91,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="51" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="271">
+              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding>
-                <marker date="1554443214311" expanded="true" signature="6:92" ph="..." />
-                <marker date="1554443214311" expanded="true" signature="157:549" ph="{...}" />
-                <marker date="1554443214311" expanded="true" signature="210:274" ph="{...}" />
-                <marker date="1554443214311" expanded="true" signature="399:420" ph="{...}" />
-                <marker date="1554443214311" expanded="true" signature="484:547" ph="{...}" />
-                <marker date="1554443214311" expanded="true" signature="510:541" ph="{...}" />
+                <marker date="1554443729422" expanded="true" signature="6:118" ph="..." />
+                <marker date="1554443729422" expanded="true" signature="158:480" ph="{...}" />
+                <marker date="1554443729422" expanded="true" signature="235:343" ph="{...}" />
+                <marker date="1554443729422" expanded="true" signature="290:337" ph="{...}" />
+                <marker date="1554443729422" expanded="true" signature="414:435" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -212,8 +211,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="723" />
-    <option name="y" value="36" />
+    <option name="x" value="738" />
+    <option name="y" value="92" />
     <option name="width" value="978" />
     <option name="height" value="955" />
   </component>
@@ -290,12 +289,12 @@
       <workItem from="1554007686193" duration="906000" />
       <workItem from="1554136677164" duration="3445000" />
       <workItem from="1554355337469" duration="594000" />
-      <workItem from="1554441793550" duration="1420000" />
+      <workItem from="1554441793550" duration="1987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40767000" />
+    <option name="totallyTimeSpent" value="41334000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,8 +306,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="579" y="29" width="782" height="764" extended-state="0" />
-    <editor active="true" />
+    <frame x="591" y="74" width="782" height="764" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.46463245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -668,15 +666,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/OpenDoor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="51" />
+        <state relative-caret-position="271">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
-            <marker date="1554443214311" expanded="true" signature="6:92" ph="..." />
-            <marker date="1554443214311" expanded="true" signature="157:549" ph="{...}" />
-            <marker date="1554443214311" expanded="true" signature="210:274" ph="{...}" />
-            <marker date="1554443214311" expanded="true" signature="399:420" ph="{...}" />
-            <marker date="1554443214311" expanded="true" signature="484:547" ph="{...}" />
-            <marker date="1554443214311" expanded="true" signature="510:541" ph="{...}" />
+            <marker date="1554443729422" expanded="true" signature="6:118" ph="..." />
+            <marker date="1554443729422" expanded="true" signature="158:480" ph="{...}" />
+            <marker date="1554443729422" expanded="true" signature="235:343" ph="{...}" />
+            <marker date="1554443729422" expanded="true" signature="290:337" ph="{...}" />
+            <marker date="1554443729422" expanded="true" signature="414:435" ph="{...}" />
           </folding>
         </state>
       </provider>

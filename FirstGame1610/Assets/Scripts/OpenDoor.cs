@@ -4,17 +4,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+
 public class OpenDoor : MonoBehaviour
 {
-    private void OnCollisionEnter(Collision other)
+    public GameObject Door;
+    void OnCollisionEnter(Collision collision)
     {
-        throw new System.NotImplementedException();
+        if (collision.gameObject.name == "Door")
+        {
+            Destroy(Door);
+        }
     }
-
-    public bool Door
-    public GameObject Key
-    
-
 
     // Start is called before the first frame update
     void Start()
@@ -23,11 +23,5 @@ public class OpenDoor : MonoBehaviour
     }
 
     // Update is called once per frame
-   public void Update()
-    {
-        if (Door())
-        {
-          
-        }
-    }
+  
 }
