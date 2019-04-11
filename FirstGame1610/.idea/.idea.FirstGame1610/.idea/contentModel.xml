@@ -12,6 +12,7 @@
           <e p="Collection.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="Conditionals.cs" t="Include" />
+          <e p="Counter.cs" t="Include" />
           <e p="DogEvent.cs" t="Include" />
           <e p="EnemyMoveScript.cs" t="Include" />
           <e p="Fish.cs" t="Include" />
