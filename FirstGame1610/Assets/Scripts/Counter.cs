@@ -1,19 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Counter : MonoBehaviour
 {
-    public int Value = 3;
-    // Start is called before the first frame update
-    IEnumerable<WaitForSeconds> Start()
+    public int Value = 3, MinValue = 0;
+    public float WaitTime = 1;
+
+    private UnityEvent OnCountEvent, OnEndEvent;
+    
+    public IEnumerable RunCounter()
     {
-        while (Value > 0)
+        var waitObject = new WaitForSeconds(WaitTime);
+        while (Value > MinValue)
         {
-            yield return new WaitForSeconds(2);
-            print(Value);
+            yield return waitObject;
+            OnCountEvent.Invoke();
             Value--;
         }
+
+        yield return waitObject;
+        OnEndEvent.Invoke();
     }
 
 
